@@ -1,8 +1,8 @@
-### What's poppin 🤝
+### How you doin' 👋
 
 - 🌱 I’m currently learning more HTML and CSS tricks for cool websites!
-- ⚡ Fun fact: I want to be a polyglot! Currently studying Japanese, fluent in Mandarin and English
-- 📫 How to reach me: paperpeter1@gmail.com
+- ⚡ Fun fact: I want to be a polyglot! Currently studying Japanese, fluent in Mandarin and English.
+- 📫 How to reach me: **paperpeter1@gmail.com**
 
 
 <!--
