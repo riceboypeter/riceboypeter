@@ -14,9 +14,11 @@ I'm Peter, an aspiring full stack developer with a BSc CompSci from the Universi
   -	Technologies: React, Django, Android, Git, JUnit, Docker, Pandas, Linux.
   -	Databases: MongoDB, PostgreSQL.
 
-- 🌱 I’m currently learning more HTML and CSS tricks for cool websites!
-- ⚡ Fun fact: I want to be a polyglot! Currently studying Japanese （今はちょっと下手ですが、上手になりたいです！）, fluent in Mandarin and English.
-- 📫 How to reach me: **paperpeter1@gmail.com**
+🌱 I’m currently learning more HTML and CSS tricks for cool websites!
+
+⚡ Fun fact: I want to be a polyglot! Currently studying Japanese （今はちょっと下手ですが、上手になりたいです！）, fluent in Mandarin and English.
+
+📫 How to reach me: **paperpeter1@gmail.com**
   
 <!--
 **riceboypeter/riceboypeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
