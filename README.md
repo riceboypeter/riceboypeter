@@ -1,4 +1,4 @@
-### How you doin' 👋
+### Hey, how you doin' 👋
 I'm Peter, an aspiring full stack developer with a BSc CompSci from the University of Alberta. 
 
 👉 Collaborated in a 7-member team to develop and deploy a business website for Zero RampUp using JavaScript.
