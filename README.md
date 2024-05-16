@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./resources/penguin.gif" width="80" height="80" style="display: inline-block; vertical-align: middle;"/>
+  <img src="./resources/penguin.gif" width="60" height="60" style="display: inline-block; vertical-align: middle;"/>
   <h1 style="display: inline-block;">Hey, how you doin'✌️</h1>
-  <img src="./resources/penguin.gif" width="80" height="80" style="display: inline-block; vertical-align: middle;"/>
+  <img src="./resources/penguin.gif" width="60" height="60" style="display: inline-block; vertical-align: middle;"/>
 </div>
-<h3 align="center">I'm Peter, an aspiring full stack developer with a BSc CompSci from the University of Alberta.</h3> 
 
+<h3 align="center">I'm Peter, an aspiring full stack developer with a BSc CompSci from the University of Alberta.</h3>
 
 👉 Collaborated in a 7-member team to develop and deploy a business website for Zero RampUp using React.
 
