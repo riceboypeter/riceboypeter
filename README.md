@@ -9,7 +9,7 @@
 
 👉 Worked as a backend developer to create a social network platform app using Django that linked with other teams' APIs.
 
-👉 Familiar with GitHub actions and automation, managing a basic codebase with several automated actions.
+👉 Automated a moderate codebase with automatic deployment, testing, and reporting purely through GitHub actions.
 
 👉 Can bake a mean banana bread (according to my mom).
 
