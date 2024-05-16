@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./resources/penguin-dance.gif" width="80" height="80" style="display: inline-block; vertical-align: middle;"/>
-  <h1 style="display: inline-block;">Hey, how you doin'✌️</h1>
-  <img src="./resources/penguin-dance.gif" width="80" height="80" style="display: inline-block; vertical-align: middle;"/>
+  <img src="./resources/penguin-dance.gif" width="80" height="80"/>
+  <h1>Hey, how you doin'✌️</h1>
 </div>
 
 <h3 align="center">I'm Peter, an aspiring full stack developer with a BSc CompSci from the University of Alberta.</h3>
@@ -26,8 +25,8 @@
 📫 How to reach me: **paperpeter1@gmail.com**
   
 <div align="center">
-  <h1 style="display: inline-block;">Check out some projects below👇</h1>
-  <img src="./resources/penguin-box.gif" width="80" height="80" style="display: inline-block;"/>
+  <h1>Check out some of my projects below👇</h1>
+  <img src="./resources/penguin-box.gif" width="80" height="80"/>
 </div>
 
 <!--
