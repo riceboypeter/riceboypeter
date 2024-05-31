@@ -1,9 +1,16 @@
+
+
 <div align="center">
   <img src="./resources/penguin-dance.gif" width="80" height="80"/>
   <h1>Hey, how you doin'✌️</h1>
 </div>
 
 <h3 align="center">I'm Peter, an aspiring full stack developer with a BSc CompSci from the University of Alberta.</h3>
+
+<div align="center">
+  ( ˘▽˘)っ <a href="https://riceboypeter.github.io" target="_blank">My Portfolio</a> (´ε｀ )♡
+</div>
+<br>
 
 👉 Collaborated in a 7-member team to develop and deploy a business website for Zero RampUp using React.
 
