@@ -8,7 +8,7 @@
 <h3 align="center">I'm Peter, an aspiring full stack developer with a BSc CompSci from the University of Alberta.</h3>
 
 <div align="center">
-  ( ˘▽˘)っ <a href="https://riceboypeter.github.io" target="_blank">My Portfolio</a> (´ε｀ )♡
+  ( ˘▽˘)っ <a href="https://riceboypeter.github.io" target="_blank" rel="noopener noreferrer">My Portfolio</a> (´ε｀ )♡
 </div>
 <br>
 
