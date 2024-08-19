@@ -29,7 +29,7 @@
 
 ⚡ Fun fact: I want to be a polyglot! Currently studying Japanese （今はちょっと下手ですが、上手になりたいです！）, fluent in Mandarin and English.
 
-📫 How to reach me: **paperpeter1@gmail.com**
+📫 How to reach me: **sqiu@ualberta.ca**
   
 <div align="center">
   <h1>Check out some of my projects below👇</h1>
