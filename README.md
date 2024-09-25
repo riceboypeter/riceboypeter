@@ -27,7 +27,7 @@
 
 🌱 I’m currently learning more HTML and CSS tricks for cool websites!
 
-⚡ Fun fact: I want to be a polyglot! Currently studying Japanese （今はちょっと下手ですが、上手になりたいです！）, fluent in Mandarin and English.
+⚡ Fun fact: I want to be a polyglot! Currently studying Japanese （今とても下手けど、上手になりたいんだよ）, fluent in Mandarin and English.
 
 📫 How to reach me: **sqiu@ualberta.ca**
   
